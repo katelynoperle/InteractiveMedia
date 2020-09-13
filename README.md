@@ -1,2 +1,0 @@
-# InteractiveMedia
-friday's lab
